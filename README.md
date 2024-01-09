@@ -1,27 +1,26 @@
 [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](akshaysen08)
 <h1 align="center">Hi 👋, I'm Akshay Sen</h1>
 <h3 align="center">Full Stack Developer</h3>
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" width="400">
+
+<p align="center"><img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" width="400"></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshaysen08&label=Profile%20views&color=0e75b6&style=flat" alt="akshaysen08" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshaysen08" alt="akshaysen08" /></a> </p>
 
-- 🔭 I’m currently working on [Mern Ecommerce](https://github.com/akshaySen08/mern-exommerce)
+<p align="center"  width="50%">
+
+- 🔭 I’m currently working on [Mern Ecommerce](https://github.com/akshaySen08/mern-exommerce/)
 
 - 🌱 I’m currently learning **Advance Node**
 
-- 👨‍💻 All of my projects are available at [akshaysen08.github.io/portfolio-website/](akshaysen08.github.io/portfolio-website/)
+- 👨‍💻 All of my projects are available at [Portfolio website](https://akshaysen08.github.io/portfolio-website/)
 
-- 📝 I regularly write articles on Software Development [https://medium.com/@akshaysen](https://medium.com/@akshaysen)
+- 📝 I regularly write articles on [Medium](https://medium.com/@akshaysen)
 
 - 💬 Ask me about **JavaScript, React.js, Angular 17**
 
-- 📫 How to reach me **akshaysen0208@gmail.com**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- 📫 How to reach me **akshaysen0208@gmail.com**</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
