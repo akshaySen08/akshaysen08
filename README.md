@@ -66,7 +66,7 @@ Reusable end-to-end automation suite for React apps with **Playwright, CI/CD int
   <a href="https://medium.com/@akshaysen" target="_blank">
     <img src="https://img.shields.io/badge/Medium-Read-black?style=for-the-badge&logo=medium" />
   </a>
-  <a href="https://akshaysen08.github.io/portfolio-website/" target="_blank">
+  <a href="https://akshaysen08.github.io/portfolio-website-2.0" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel" />
   </a>
   <a href="mailto:akshaysen0802@gmail.com">
