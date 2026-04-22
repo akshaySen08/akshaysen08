@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akshay Sen</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=800&color=2E9EFF&center=true&vCenter=true&width=700&lines=Full+Stack+Engineer;React+%7C+Next.js+%7C+Node.js;Building+scalable+web+applications;Cloud+%7C+Microservices+%7C+Performance" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=800&color=2E9EFF¢er=true&vCenter=true&width=700&lines=Full+Stack+Engineer;React+%7C+Next.js+%7C+Node.js;Building+scalable+web+applications;Cloud+%7C+Microservices+%7C+Performance" alt="Typing SVG" />
 </p>
 
 <h3 align="center">Full Stack Engineer | React • Next.js • Node • Azure</h3>
@@ -73,12 +73,3 @@ Reusable end-to-end automation suite for React apps with **Playwright, CI/CD int
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
-
----
-
-## 🐍 Contribution Snake
-
-> To use this, you’ll need a GitHub Action to generate it.
-
-```md
-![snake gif](https://github.com/akshaysen08/akshaysen08/blob/output/github-contribution-grid-snake.svg)
